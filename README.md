@@ -1,4 +1,4 @@
-# java-product-service
+# Java Product Service
 
 ## Consideraciones iniciales 🤔
 - Este en este proyecto se ha construido una aplicación con Spring Booy y Java 11 que da solución a la prueba técnica propuesta [en este repositorio][link1].
