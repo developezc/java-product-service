@@ -1,0 +1,14 @@
+server:
+  port: 5000
+
+openfeign:
+ product-service-url: http://localhost:3001/product
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 30000
+        readTimeout: 5000
+
+     
